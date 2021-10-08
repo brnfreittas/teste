@@ -1,2 +1,6 @@
 sadsdsdsds
+<<<<<<< HEAD
 eu estou aqui
+=======
+sdsdsdsdsghghhhjjkjkk
+>>>>>>> ce2d974844c76cac265f59745e70d0e7e5d9df32
